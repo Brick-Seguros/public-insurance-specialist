@@ -1,0 +1,617 @@
+SUPERINTENDÊNCIA DE SEGUROS PRIVADOS
+  
+CIRCULAR SUSEP Nº 678, DE 10 DE OUTUBRO DE 2022
+  
+Altera a Circular SUSEP nº 648, de
+12 de novembro de 2021, e
+revoga dispositivo da Circular Susep
+nº 439, de 27 de junho de 2012.
+O SUPERINTENDENTE DA SUPERINTENDÊNCIA DE SEGUROS
+PRIVADOS
+ 
+- SUSEP
+, no uso das competências que lhe foram delegadas nos termos do
+disposto no art. 36, alíneas "b", "f" e "g" do Decreto-Lei nº 73, de 21 de novembro de
+1966, c/c o disposto nos arts. 73 e 74 da Lei Complementar nº 109, de 29 de maio de
+2001, c/c os artigos 2º; 5º; 6º, parágrafo único, inciso II e 12 da Lei Complementar nº
+126, de 15 de janeiro de 2007, c/c o art. 3º, § 2º e o art. 4º do Decreto-Lei nº 261, de 28
+de fevereiro de 1967; e considerando o que consta do processo Susep nº
+15414.602210/2022-66,
+ 
+R E S O L V E :
+ 
+Art. 
+1
+º
+A Circular Susep nº 648, de 12 de novembro de 2021, passa a vigorar
+com as seguintes alterações:
+"Art. 6º ...............................
+............................................
+VII - Provisão de Despesas Relacionadas a Produtos Estruturados em Regime
+Financeiro de Repartição Simples (PDR);
+.............................................
+IX - Provisão de Excedentes Financeiros (PEF);
+X - Provisão de Resgates e Outros Valores a Regularizar (PVR); e
+XI - Provisão de Despesas Relacionadas a Produtos Estruturados em Regime
+Financeiro de Capitalização ou Repartição de Capitais por Cobertura (PDC)." (NR)
+ 
+"Art. 7º ...............................
+............................................
+§ 1º  A constituição da provisão não abrange os planos ou produtos
+estruturados no regime financeiro de capitalização.
+§ 2º Para os casos de seguros com períodos intermitentes de cobertura, a
+PPNG corresponderá ao valor do prêmio comercial referente aos créditos remanescentes
+vigentes na data-base de cálculo.” (NR)
+ 
+"Art. 8º A PSL deverá ser constituída para a cobertura dos valores esperados
+a liquidar relativos a sinistros avisados até a data-base de cálculo, incluindo as operações
+de cosseguro aceito, brutos das operações de resseguro e líquidos das operações de
+cosseguro cedido, obedecidos os seguintes critérios:
+I - a provisão abrange os valores relativos a indenizações e benefícios,
+incluindo atualizações monetárias, juros, variações cambiais e multas contratuais, além
+dos montantes estimados referentes às ações judiciais e os resultantes de sentença
+NORMA - Circular 678 (1474711)         SEI 15414.602210/2022-66 / pg. 1transitada em julgado;
+.............................................
+§ 4º O fato gerador da baixa da PSL, decorrente de pagamento, se
+caracteriza quando da liquidação ﬁnanceira, do recebimento do comprovante de
+pagamento da indenização ou benefício, ou conforme os demais casos previstos em lei.
+§ 5º Os valores referentes a pagamentos sob a forma de renda atuarial ou
+ﬁnanceira não devem ser considerados na PSL, ressalvado o exposto no inciso II do
+caput
+." (NR)
+ 
+"Art. 9º ................................
+I - a provisão deverá contemplar estimativa para os valores relativos a
+indenizações, benefícios e rendas, incluindo as estimativas para o desenvolvimento
+agregado dos sinistros ocorridos e não avisados, e considerando os montantes referentes
+às ações judiciais e os resultantes de sentença transitada em julgado;
+............................................." (NR)
+ 
+"Art. 10. ..............................
+§ 1º A provisão deverá ser constituída para a cobertura de benefícios
+decorrentes de coberturas estruturadas no regime financeiro de capitalização.
+§ 2º O fato gerador da baixa da PMBAC é:
+I ​- para a co
+bertura por sobrevivência:
+a) sobrevivência do segurado ou participante ao período de diferimento
+contratado, no caso de cobertura por sobrevivência estruturada na modalidade benefício
+definido;
+b) solicitação de benefício, no caso de cobertura por sobrevivência
+estruturada na modalidade contribuição variável;
+c) solicitação de resgate, observado o disposto no §3º;
+d) solicitação de portabilidade, observado o disposto no §3º;
+e) custeio de cobertura de risco em planos conjugados;
+f) amortização do saldo devedor de assistência financeira; e
+g) cancelamento da cobertura; e
+II - para as coberturas de risco:
+a) registro do aviso de sinistro;
+b) solicitação de resgate;
+c) solicitação de portabilidade;
+d) custeio de cobertura de risco quando previsto no plano; e
+e) cancelamento da cobertura.
+§
+ 
+3º Para os produtos de acumulação cuja provisão esteja diretamente
+relacionada a fundos especíﬁcos, a baixa da provisão deverá ocorrer no mesmo momento
+da cotização do resgate nesses fundos." (NR)
+ 
+"Art. 11. A PMBC deverá ser constituída, após ocorrido o evento gerador do
+benefício, para a cobertura dos compromissos assumidos com os participantes ou
+segurados, sendo calculada conforme metodologia constante em nota técnica atuarial do
+plano ou produto.
+§ 1º A provisão abrange apenas as rendas atuariais ou ﬁnanceiras a vencer, e
+deverá ser constituída para as coberturas estruturadas no regime ﬁnanceiro de
+capitalização ou no regime financeiro de repartição de capitais de cobertura.
+§ 2º Os valores relativos a rendas vencidas e não pagas constantes da PMBC
+deverão ser baixados desta e incluídos na PVR." (NR)
+ 
+"Art. 13. A PDR deverá ser constituída para a cobertura dos valores
+NORMA - Circular 678 (1474711)         SEI 15414.602210/2022-66 / pg. 2esperados a pagar das despesas diretamente relacionadas a sinistros ocorridos relativos a
+coberturas estruturadas em regime financeiro de repartição simples.
+§ 1º Consideram-se despesas diretamente relacionadas a sinistros aquelas
+que, além de poderem ser mensuradas e diretamente relacionadas a sinistros de forma
+objetiva e conﬁável, representem despesas marginais decorrentes da ocorrência do
+sinistro.
+§ 2º A provisão abrange não somente as despesas incorridas e ainda não
+liquidadas relacionadas a sinistros ocorridos, como também as estimativas relativas às
+despesas a ocorrer relacionadas a sinistros ocorridos, avisados ou não." (NR)
+ 
+"Art. 13-A. A PDC deverá ser constituída para a cobertura das despesas
+marginais diretamente relacionadas a:
+I - pagamentos de indenizações, benefícios e resgates relativos a coberturas
+estruturadas em regime financeiro de capitalização; e
+II - pagamento de benefícios relativos a coberturas estruturadas em regime
+financeiro de repartição de capitais de cobertura após a ocorrência de sinistro." (NR)
+ 
+"Art. 16. A PVR abrange os valores referentes aos resgates a regularizar, às
+devoluções de prêmios, contribuições ou fundos, às portabilidades a regularizar, aos
+prêmios recebidos e não cotizados, às rendas vencidas e aos benefícios a regularizar
+relativos a coberturas por sobrevivência.
+§ 1º Consideram-se resgates a regularizar aqueles solicitados e por qualquer
+motivo ainda não pagos, bem como os valores correspondentes a resgate cujo direito não
+tenha sido exercido nos casos de cancelamento do contrato do participante ou
+do segurado.
+§ 2º Para ﬁns deste artigo, os pagamentos ﬁnanceiros programados devem
+ser considerados como resgates.
+§ 3º Consideraram-se portabilidades a regularizar:
+I - as portabilidades solicitadas e por qualquer motivo ainda não transferidas
+para a sociedade seguradora, EAPC ou entidade fechada de previdência complementar
+receptora; e
+II - as portabilidades recebidas e por qualquer motivo ainda não alocadas em
+um plano específico.
+§ 4º Consideram-se benefícios a regularizar relativos a cobertura por
+sobrevivência:
+I - na modalidade benefício deﬁnido, o benefício devido após a sobrevivência
+do segurado ou participante ao período de diferimento contratado até o momento do
+pagamento ou da opção do segurado ou participante de receber o benefício na forma de
+renda; e
+II - na modalidade contribuição variável, o benefício solicitado devido e por
+qualquer motivo ainda não pago, ressalvado os casos previstos no § 3º do art. 10, em que
+deverá ser considerada como referência o momento da cotização do resgate no fundo.
+§ 5º O fato gerador da baixa da PVR é:
+I - o pagamento, caracterizado  quando da liquidação ﬁnanceira, do
+recebimento do comprovante de pagamento da obrigação, ou conforme os demais casos
+previstos em lei;
+II -  a alocação da portabilidade recebida ao plano específico;
+III - a cotização de prêmios recebidos; e
+IV - a opção do segurado/participante em receber renda, nas coberturas por
+sobrevivência na modalidade benefício definido." (NR)
+ 
+"Art. 17. ..............................
+.............................................
+VII - Provisão de Receitas Diferidas (PRD)." (NR)
+ 
+NORMA - Circular 678 (1474711)         SEI 15414.602210/2022-66 / pg. 3"Art. 18. ..............................
+§ 1º O fato gerador da constituição da provisão é o pagamento ou a
+informação de pagamento da contribuição pelo subscritor.
+.............................................
+§ 3º Quando não conhecida a data de aquisição, será utilizada a data de início
+de comercialização da série, desde que o prazo de comercialização da série não ultrapasse
+sessenta dias." (NR)
+ 
+"Art. 24. A PRD deverá ser constituída para o diferimento de receitas dos
+títulos pelas sociedades de capitalização." (NR)
+ 
+"Art. 26. ..............................
+.............................................
+VII - Provisão de Despesas Relacionadas a Produtos Estruturados em Regime
+Financeiro de Repartição Simples (PDR);
+VIII - Provisão de Excedentes Técnicos (PET);
+IX - Provisão de Excedentes Financeiros (PEF); e
+X - Provisão de Despesas Relacionadas a Produtos Estruturados em Regime
+Financeiro de Capitalização ou Repartição de Capitais por Cobertura (PDC)." (NR)
+ 
+"Art. 33. A PDR deverá ser constituída para a cobertura dos valores
+esperados a pagar das despesas diretamente relacionadas a sinistros ocorridos relativos a
+produtos estruturados em regime financeiro de repartição simples." (NR)
+ 
+"Art. 33-A. A PDC deverá ser constituída para a cobertura das despesas
+marginais diretamente relacionadas a:
+I - pagamentos de indenizações, benefícios e resgates relativos a produtos
+estruturados em regime financeiro de capitalização; e
+II - pagamento de benefícios relativos a produtos estruturados em regime
+financeiro de repartição de capitais de cobertura após a ocorrência de sinistro." (NR)
+ 
+"Art. 36. As sociedades seguradoras, as EAPCs e os resseguradores locais
+enquadrados nos segmentos S1, S2 e S3 deverão elaborar o Teste de Adequação de
+Passivos (TAP) para avaliar as obrigações decorrentes dos seus contratos, utilizando
+métodos estatísticos e atuariais com base em considerações realistas.
+.............................................
+§ 3º O TAP deve ser elaborado, obrigatoriamente, nas datas-bases de 30 de
+junho e 31 de dezembro, pelas supervisionadas enquadradas nos segmentos S1, S2 e S3.
+§ 4º A periodicidade de elaboração do TAP pode ser inferior à deﬁnida no § 3º,
+por decisão da supervisionada devidamente comunicada à Susep." (NR)
+ 
+"Art. 37. Para efeitos deste capítulo, consideram-se:
+I - data-base: data de cálculo do TAP, observado o disposto nos §§ 3º e 4º do
+art. 36; 
+.............................................
+V - produtos de acumulação com contribuição variável: produtos baseados na
+acumulação de recursos, sem definição prévia do valor do benefício contratado;
+VI - produtos de benefício deﬁnido: produtos em que o valor do benefício
+contratado é previamente estabelecido;
+VII - contratos: apólices, certificados, bilhetes, contratos ou planos; e
+VIII - grupos de contratos: contratos sujeitos a riscos similares e administrados
+NORMA - Circular 678 (1474711)         SEI 15414.602210/2022-66 / pg. 4como uma única carteira." (NR)
+ 
+"Art. 38. ..............................
+.............................................
+"§ 3º As premissas relacionadas a despesas, sinistralidade, resgates,
+persistência, portabilidade, seguro prolongado, benefício prolongado, saldamento e opção
+de conversão em renda deverão ser baseadas na experiência observada pela sociedade
+seguradora, EAPC ou ressegurador local, ou na de mercado, quando não houver
+experiência própria, limitada ao período máximo de cinco anos." (NR)
+ 
+"Art. 42. ..............................
+.............................................
+Parágrafo único. As estimativas correntes dos ﬂuxos de caixa em valores
+nominais deverão ser elaboradas apenas nos casos em que a obrigação não é indexada,
+devendo, nessa hipótese, ser utilizada a ETTJ livre de risco pré-ﬁxada para o desconto a
+valor presente." (NR)
+ 
+"Art. 43. ..............................
+.............................................
+§ 3º .....................................
+.............................................
+II - prêmios/contribuições registradas referentes aos produtos de acumulação
+com contribuição variável estruturados em regime ﬁnanceiro de capitalização, abrangidos
+pela respectiva PMBAC, incluindo, quando cabível, os eventuais excedentes ﬁnanceiros
+relacionados e os fluxos relacionados à parcela da PDC relativa a esses produtos;
+III - prêmios/contribuições referentes aos produtos de benefício deﬁnido
+estruturados em regime ﬁnanceiro de capitalização, abrangidos pela respectiva PMBAC,
+incluindo os eventuais excedentes ﬁnanceiros relacionados e os ﬂuxos relacionados à
+parcela da PDC relativa a esses produtos;
+.............................................
+V - benefícios concedidos referentes aos produtos estruturados em regime
+ﬁnanceiro de capitalização ou regime ﬁnanceiro de repartição de capitais de cobertura,
+abrangidos pela respectiva PMBC, incluindo, quando cabível, os eventuais excedentes
+financeiros relacionados; e
+.............................................
+§ 5º Dentro das segregações apresentadas nos incisos do § 3º, os resultados
+parciais por grupos de contratos poderão ser compensados nos termos da política contábil
+da supervisionada.
+.....................................
+§ 8º A definição da metodologia de rateio da PCC entre ramos e/ou planos fica
+a critério da supervisionada, observada a opção de segregação por grupos de contratos
+estabelecida no § 5º.
+.......................................
+§ 12. Especiﬁcamente para os ﬂuxos abrangidos pelo inciso IV do § 7º, o
+resultado do TAP deverá ser líquido das respectivas operações de resseguro e
+retrocessão.
+§ 13. A política contábil prevista no § 5º deve ser formalizada em estudo
+técnico que deverá:
+I - conter, no mínimo:
+a) a opção da supervisionada em compensar ou não os resultados parciais
+dentro das segregações apresentadas nos incisos do § 3º; e
+b) grupos de contratos utilizados pela supervisionada;
+II - ser aprovado pela diretoria e, se houver, pelo Conselho de Administração
+ou pelo Conselho Deliberativo da supervisionada; e
+NORMA - Circular 678 (1474711)         SEI 15414.602210/2022-66 / pg. 5III - estar disponível para a Susep e auditoria externa, sempre que solicitado.
+§ 14. A opção de que trata a alínea "a" do inciso I do § 13º é irrevogável.
+§ 15. A supervisionada deverá comunicar à Susep qualquer alteração na
+deﬁnição de grupos de contratos, e só poderá implementar a modiﬁcação no TAP após um
+ano daquela comunicação." (NR)
+ 
+"Art. 45. ..............................
+.............................................
+IV - ......................................
+a) análise da PMBAC: resultados segregados por grupos de contratos, tipo de
+cobertura, base técnica e percentual de reversão de excedentes financeiros;
+b) análise da PMBC: resultados segregados por grupos de contratos, tipo de
+cobertura, tipo de renda, base técnica e percentual de reversão de excedentes
+financeiros; e
+c) análise da PPNG e demais provisões: resultados segregados por grupos de
+contratos, seguros de danos, seguros de pessoas e operações de previdência
+complementar aberta;
+..............................................
+§ 1º A segregação a que se refere o inciso IV deverá ser efetuada apenas
+para ﬁns de apresentação, e os respectivos resultados parciais poderão ser compensados,
+observada a política contábil de que trata o § 13 do art. 43, para ﬁns de obtenção do
+resultado final.
+............................................"(NR)
+ 
+"Art. 101. ...............................
+§ 1º Para os produtos de risco, o fato gerador da receita é a vigência do risco.
+...............................................
+§ 3º Para as operações de capitalização, o fato gerador da receita é:
+I - 
+o recebimento ou a informação sobre o recebimento, para
+ as quotas de
+capitalização e de sorteio
+ 
+da contribuição; e
+II - o atendimento da contraprestação a ser oferecida pela sociedade de
+capitalização aos titulares de direitos de resgate e de sorteio, conforme critérios,
+metodologias e premissas discriminados em estudo técnico, para a quota de
+carregamento.
+§ 4º O estudo técnico previsto no inciso II do § 3º deverá:
+I - ser aprovado pelo diretor responsável pela contabilidade; e
+II - ser disponibilizado à Susep e à auditoria externa sempre que solicitado.
+............................................. " (NR)   
+ 
+"Art. 109. ..................................
+..................................................
+§ 4º ..........................................
+..................................................
+III - ...........................................
+................................................
+d) ...........................................
+1. subgrupo 341 - Receita com Títulos de Capitalização;
+2. subgrupo 342 - Variação das Provisões de Resgate;
+3. subgrupo 343 - Variação da Provisão de Sorteios;
+................................................ " (NR) 
+NORMA - Circular 678 (1474711)         SEI 15414.602210/2022-66 / pg. 6 
+"Subseção XIV-A                 
+ 
+Dos Serviços de Assistência
+Art. 125-A. O registro contábil dos serviços de assistência deverá considerar a
+responsabilidade pelos riscos da operação.
+§ 1º Se o risco da operação for de responsabilidade da supervisionada, o valor
+arrecadado deverá ser contabilizado como prêmio e o custo do serviço de assistência
+deverá ser contabilizado como sinistros.
+§ 2º Se o risco da operação for de responsabilidade da prestadora de
+serviços, conforme disciplinado em regulamentação especíﬁca, o valor a ser repassado
+para o prestador de serviços deverá ser contabilizado como passivo." (NR)
+ 
+"
+Subseção XIV-B                                      
+Ativos de Resseguro Diferido
+Art. 125-B. Na hipótese de o resultado ﬁnal do TAP ser positivo e haver
+operações de resseguro ou de retrocessão relacionadas às obrigações que geraram a
+necessidade de constituição da PCC, os respectivos ativos de resseguro ou de retrocessão
+devem ser mensurados pelo maior valor entre:
+I - o valor calculado conforme regra de diferimento do prêmio de
+resseguro/retrocessão; e
+I - o valor ﬁnal do ﬂuxo de caixa calculado de forma análoga aos
+procedimentos aplicáveis no TAP.
+Parágrafo único. O cálculo do valor ﬁnal do ﬂuxo de caixa para os contratos
+de resseguro e retrocessão, previsto no inciso II do 
+caput
+,  deverá ser encaminhado à
+Susep juntamente com o TAP." (NR)
+ 
+"
+Subseção XIV-C                                      
+Alteração na PCC em Decorrência de Mudança na Taxa de Juros
+Art. 125-C. A contrapartida de alterações na PCC em decorrência de
+alterações na estrutura a termo da taxa de juros poderá ser no resultado do exercício ou
+em outros resultados abrangentes, conforme política contábil da supervisionada.
+§ 1º A política contábil prevista no 
+caput 
+deverá ser formalizada em estudo
+técnico que deverá:
+I - ser aprovado pela diretoria e, se houver, pelo Conselho de Administração
+ou pelo Conselho Deliberativo da supervisionada; e
+II - estar disponível para a Susep e auditoria externa, sempre que solicitado.
+§ 2º A opção de que trata o 
+caput 
+somente poderá ser alterada no caso de
+enquadramento da supervisionada resultante ou sucessora em grupo prudencial distinto
+em decorrência de modificação de controle acionário, cisão ou incorporação.
+§ 3º Para implementação da alteração da política contábil tratada no § 2º , a
+supervisionada deverá observar a mesma formalização definida no § 1º." (NR)
+ 
+"Art. 126. ...............................
+...............................................
+II - ..........................................
+...............................................
+d) provisões;
+...............................................
+f) critério de segmentação no reconhecimento da PCC; e
+g) critério de reconhecimento  da contrapartida de aumento de provisão
+técnica gerada no TAP em decorrência de alteração de taxa de juros de mercado;
+...............................................
+NORMA - Circular 678 (1474711)         SEI 15414.602210/2022-66 / pg. 7X - ..........................................
+...............................................
+d) sinistralidade;
+...............................................
+f) métodos, procedimentos, premissas e pressupostos utilizados na
+elaboração do TAP; e
+g) resultado do TAP por grupo de contrato, mesmo que a supervisionada não
+seja obrigada a constituir PCC.  
+...............................................
+XV - ........................................
+d) vigência média;
+XVI - .......................................
+e) demonstração de cálculo dos níveis de PLA; e
+XVII - informações sobre montante de taxa de gestão utilizado para
+compensação de cada resultado deficitário para fins de constituição do TAP." (NR)
+ 
+"Art. 136. ...............................
+...............................................
+XXXVII - CPC 46 - Mensuração do Valor Justo;
+XXXVIII - CPC 47 - Receitas de Contrato com Cliente; e
+XXXIX - CPC 48 - Instrumentos Financeiros." (NR)
+ 
+"Art. 137. ...............................
+§ 1º As supervisionadas enquadradas no segmento S4 ﬁcam dispensadas dos
+requerimentos contidos nos itens 15 a 19 do CPC 11 - Teste de adequação do passivo,
+ressalvado quando solicitado pela Susep, nos termos do § 2º do art. 36.
+§ 2º A redução ao valor recuperável de prêmios a receber deverá ser
+constituída:
+I - preferencialmente, a partir da experiência de perda histórica de
+agrupamentos de prêmios a receber, exclusivamente para riscos decorridos; ou
+II - a partir da análise do risco de inadimplência do crédito, nas situações em
+que esta opção seja mais aderente à operação da supervisionada.
+§ 3º A sociedade seguradora deverá elaborar estudo técnico, atualizado, no
+mínimo,  nas datas-bases de elaboração das demonstrações contábeis, aprovado pelo
+diretor responsável pela contabilidade e disponível para a Susep sempre que solicitado, que
+contemple, no mínimo:
+I - indicação dos agrupamentos de prêmios a receber utilizados pela
+sociedade seguradora para fins de constituição de RVR de prêmios a receber;
+II - dados históricos por agrupamento utilizados no cálculo da probabilidade de
+inadimplência; e
+III - variáveis econômicas utilizadas no cálculo da probabilidade de
+inadimplência, se utilizadas.
+§ 4º A redução ao valor recuperável de prêmio de resseguro diferido e prêmio
+de retrocessão diferido deverá ser constituída se:
+I - houver evidências objetivas, como resultado de evento que ocorreu após o
+reconhecimento inicial do ativo por contrato de resseguro, que a cedente possa não
+receber todo o valor relacionado a ele nos termos do contrato; e
+II - o impacto desse evento no valor que a cedente tem a receber do
+ressegurador ou retrocessionário pode ser mensurado de forma confiável. 
+§ 5º Com exceção das contas de prêmio de resseguro diferido e prêmio de
+retrocessão diferido, a redução ao valor recuperável de contas de ativo cuja contraparte
+NORMA - Circular 678 (1474711)         SEI 15414.602210/2022-66 / pg. 8seja um ressegurador ou um retrocessionário deverá ser calculada a partir do risco de
+inadimplência de cada ressegurador ou retrocessionário.
+§ 6º O risco de inadimplência de cada ressegurador ou retrocessionário
+deverá considerar, no mínimo:
+I - o histórico de perdas com o ressegurador/retrocessionário;
+II -  análise prospectiva da capacidade de pagamento do
+ressegurador/retrocessionário;
+III - eventuais divergências ou litígios referentes à cobertura do contrato de
+resseguro ou retrocessão que possam resultar em valores a receber pela cedente
+inferiores ao inicialmente contabilizado.
+§ 7º A análise do risco de inadimplência do ressegurador ou retrocessionário
+deverá constar de estudo técnico, atualizado, no mínimo, nas datas-bases de elaboração
+das demonstrações contábeis, aprovado pelo diretor responsável pela contabilidade e
+disponível para a Susep sempre que solicitado, que contemple no mínimo:
+I - os dados históricos de perdas com o ressegurador/retrocessionário;
+II - as variáveis utilizadas na análise prospectiva da capacidade de pagamento
+do ressegurador/retrocessionário; e
+III - detalhamento das divergências e litígios referentes às coberturas do
+contrato de resseguro ou retrocessão."(NR)
+ 
+"Art. 138. Na aplicação do CPC 48 - Instrumentos Financeiros, a
+supervisionada deverá:
+I - classiﬁcar como ativos ﬁnanceiros mensurados a valor justo por meio do
+resultado ou ativos ﬁnanceiros mensurados a valor justo por meio de outros resultados
+abrangentes:
+a) FIE destinado a recepcionar a aplicação dos recursos de planos de
+previdência complementar aberta e de seguros de pessoas com cobertura por
+sobrevivência, estruturados na modalidade de contribuição variável, cuja remuneração
+esteja calcada na rentabilidade de carteiras de investimentos;
+b) FIE destinado a recepcionar a aplicação de recursos de planos abertos de
+previdência complementar ou de seguros de pessoas com cobertura por sobrevivência nos
+períodos em que prevejam a reversão total ou parcial de resultados financeiros;
+c) FIE destinado a recepcionar a aplicação de recursos de planos de Seguro
+Vida Universal; e
+d) fundo de investimento especialmente constituído para acolher recursos dos
+FIE de que tratam as alíneas "a", "b" e "c" deste inciso; e
+II - constituir a redução ao valor recuperável de ativos ﬁnanceiros com base
+em estudo técnico.
+§ 1º Ficam dispensados de observar a vedação do inciso I os FIEs e FIFEs
+destinados a aplicação de recursos de planos abertos de previdência complementar e de
+seguros de pessoas, com cobertura por sobrevivência, durante o período de pagamento,
+respectivamente, do benefício e do capital segurado, desde que não haja previsão de
+reversão total ou parcial de resultados financeiros neste período.
+§ 2º O estudo técnico previsto no inciso II deverá:
+I - ser aprovado pelo diretor responsável pela contabilidade;
+II - ser aplicado mensalmente, com a manutenção da documentação que
+permita sua replicação pelos auditores independentes e pela Susep;
+III - ser atualizado, no mínimo,  nas datas-bases de elaboração das
+demonstrações contábeis;
+IV - estar disponível para a Susep sempre que solicitado; e
+V - conter no mínimo:
+a) no caso de utilização da abordagem simplificada:
+1. grupamentos utilizados,
+2. base de dados histórica que permita a veriﬁcação do histórico de perdas e
+dos riscos de inadimplência;
+NORMA - Circular 678 (1474711)         SEI 15414.602210/2022-66 / pg. 93. premissas econômicas, se utilizadas; e
+b) no caso de utilização da abordagem padrão:
+1. deﬁnição do que é considerado aumento signiﬁcativo de risco de
+inadimplência;
+2. metodologia de cálculo utilizado; e
+3. premissas utilizadas." (NR)
+ 
+Art. 
+2
+º
+A Circular Susep nº 648, de 2021, passa a vigorar com as seguintes
+alterações:
+"Art. 49. ..............................
+.............................................
+IV - custos de aquisição diferidos redutores;
+V - ativos depositados no exterior redutores; e
+VI - valores em trânsito redutores.
+........................................." (NR)
+ 
+"Seção VI                 
+ 
+Dos valores em trânsito redutores
+Art. 57-A. As supervisionadas poderão deduzir da necessidade de cobertura
+de suas provisões técnicas por ativos garantidores os valores em trânsito relacionados à
+conversão em cotas e liquidação ﬁnanceira de resgates, portabilidades
+, 
+prêmios e
+contribuições.
+§ 1º Caracterizam-se como valores em trânsito redutores os montantes cujo
+o valor correspondente do FIE não é mais considerado como ativo garantidor, nas
+seguintes hipóteses:
+I- resgates e portabilidades em que a conversão de cotas tenha ocorrido até a
+data de referência, porém que não tenha acontecido a respectiva liquidação financeira; e
+II - prêmios, contribuições e portabilidades em que a liquidação ﬁnanceira
+tenha ocorrido até a data de referência, porém que não tenha ocorrido a respectiva
+conversão de cotas.
+§ 2º A redução da necessidade de cobertura disposta no 
+caput 
+ﬁca limitada a
+valores relacionados a FIEs de planos abertos de previdência complementar e de seguros
+de pessoas com cobertura por sobrevivência." (NR)
+ 
+Art. 
+3
+º
+A tabela do Anexo I da Circular Susep nº 648, de 2021, passa a
+vigorar da seguinte forma:
+NORMA - Circular 678 (1474711)         SEI 15414.602210/2022-66 / pg. 10 
+Art. 
+4
+º
+Na adoção inicial das alterações de políticas contábeis previstas no
+ 
+no
+§ 5º do art. 43, no § 3º do art. 101 e no art. 125-C da Circular Susep nº 648, de 2021, as
+supervisionadas poderão aplicar as mudanças prospectivamente, conforme orientações
+contidas em manual específico divulgado no sítio eletrônico da Susep.
+ 
+Art. 
+5
+º
+Ficam revogados os seguintes dispositivos da Circular SUSEP nº 648,
+de 2021:  
+I
+ -
+§ 4º do art. 18;
+II
+ -
+§ 2º do art. 19;
+III
+ -
+§§ 2º, 10 e 11 do art. 43;
+IV
+ -
+art. 44;
+V
+ -
+inciso V do art. 45;
+VI
+ -
+inciso IV do art. 117;
+VII
+ -
+inciso XXXI do art. 136;
+VIII
+ -
+art. 139; e
+IX
+ -
+art. 140.
+ 
+Art. 
+6
+º
+Fica revogado o parágrafo único do art. 4º da Circular Susep nº 439,
+de 27 de junho de 2012.
+ 
+Art. 
+7
+º
+Esta Circular entra em vigor:
+NORMA - Circular 678 (1474711)         SEI 15414.602210/2022-66 / pg. 11I
+ -
+em 2 de janeiro de 2023, para o art. 2º; e
+II
+ -
+em 2 de janeiro 2024, para os demais artigos.
+Documento assinado eletronicamente por 
+ALEXANDRE MILANESE CAMILLO
+(MATRÍCULA 3257886)
+, 
+Superintendente da Susep
+, em 11/10/2022, às
+19:49, conforme horário oficial de Brasília, com fundamento no § 3º do art. 4º
+do Decreto nº 10.543/2020.
+A autenticidade do documento pode ser conferida no site
+https://sei.susep.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&acao_origem=documento_conferir&id_orgao_acesso_externo=0
+informando o código verificador 
+1474711
+ e o código CRC 
+4DA1ABF7
+.
+ 
+Referência:
+ Processo nº 15414.602210/2022-66
+SEI nº 1474711
+NORMA - Circular 678 (1474711)         SEI 15414.602210/2022-66 / pg. 12

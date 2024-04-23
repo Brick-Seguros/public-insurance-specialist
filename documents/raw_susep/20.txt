@@ -1,0 +1,158 @@
+
+
+
+RESOLUÇÃO N° 439, DE 4 DE JULHO DE 2022
+Dispõe sobre as características gerais para operação das coberturas de risco de seguros de pessoas.
+A SUPERINTENDÊNCIA DE SEGUROS PRIVADOS -SUSEP, no uso da atribuição que lhe confere o art. 34, inciso XI, do Decreto nº 60.459, de 13 de março de 1967, torna público que o CONSELHO NACIONAL DE SEGUROS PRIVADOS - CNSP, em sessão ordinária realizada em 30 de junho de 2022, tendo em vista o disposto nos incisos I e IV do art. 32 do Decreto-Lei nº 73, de 21 de novembro de 1966, e considerando o disposto no Decreto nº 10.139, de 28 de novembro de 2019, e o que consta do Processo Susep nº 15414.613980/2021-53, resolve:
+Art. 1º Dispor sobre as características gerais para operação das coberturas de risco de seguros de pessoas.
+Parágrafo único. As disposições desta Resolução se aplicam, no que couber, aos seguros comercializados por meio de bilhete.
+CAPÍTULO I
+DISPOSIÇÕES INICIAIS
+Art. 2º Para fins desta Resolução, define-se:
+I - acidente pessoal: evento com data caracterizada, exclusivo e diretamente externo, súbito, involuntário, violento, causador de lesão física, que, por si só e independentemente de toda e qualquer outra causa, tenha como consequência direta a morte, a invalidez permanente total ou parcial, a incapacidade temporária ou que torne necessário tratamento médico, observando-se, que o suicídio, ou sua tentativa, será equiparado, para fins de pagamento de indenização, a acidente pessoal;
+II - apólice: documento emitido pela sociedade seguradora formalizando a aceitação da(s) cobertura(s) solicitada(s) pelo proponente, nos planos individuais, ou pelo estipulante, nos planos coletivos;
+III - assistido: beneficiário em gozo do recebimento do capital segurado sob a forma de renda;
+IV - beneficiário: pessoa física ou jurídica designada para receber a indenização, na hipótese de ocorrência do sinistro;
+V - capital segurado: valor máximo para a cobertura contratada a ser pago pela sociedade seguradora na ocorrência do sinistro;
+VI - carregamento: importância destinada a atender às despesas administrativas e de comercialização;
+VII - certificado individual: documento destinado ao segurado, emitido pela sociedade seguradora no caso de contratação coletiva, quando da aceitação do proponente, da renovação do seguro ou da alteração de valores de capital segurado ou prêmio;
+VIII - condições contratuais: conjunto de disposições que regem a contratação de um mesmo plano de seguro, também denominadas condições gerais e especiais;
+IX - coberturas de risco: coberturas de seguro de pessoas cujo evento gerador não seja a sobrevivência do segurado a uma data pré-determinada;
+X - consignante: pessoa jurídica responsável, exclusivamente, pela efetivação de descontos em folha de pagamento e pelo respectivo repasse em favor da sociedade seguradora, correspondentes aos prêmios devidos pelos segurados;
+XI - grupo segurado: é a totalidade do grupo segurável efetivamente aceita e incluída na apólice coletiva;
+XII - início de vigência: é a data a partir da qual as coberturas de risco propostas serão garantidas pela sociedade seguradora;
+XIII - migração de apólices: substituição de apólice coletiva por nova apólice emitida por outra sociedade seguradora em período não coincidente com o término da respectiva vigência;
+XIV - nota técnica atuarial: documento elaborado por atuário, que contem a estruturação técnica do plano de seguro, mantendo estreita relação com as condições contratuais;
+XV - portabilidade: instituto que permite ao segurado, antes da ocorrência do sinistro, a movimentação de recursos da Provisão Matemática de Benefícios a Conceder;
+XVI - prazo de carência: período, contado a partir da data de início de vigência do seguro ou do aumento do capital segurado ou da recondução, no caso de suspensão, durante o qual, na ocorrência do sinistro, o segurado ou os beneficiários não terão direito à percepção dos capitais segurados contratados;
+XVII - prêmio: valor correspondente a cada um dos pagamentos destinados ao custeio do seguro;
+XVIII - proponente: o interessado em contratar a cobertura (ou coberturas), ou aderir ao contrato, no caso de contratação coletiva;
+XIX - proposta de adesão: documento com declaração dos elementos essenciais do interesse a ser garantido e do risco, em que o proponente, pessoa física, expressa a intenção de aderir à contratação coletiva, manifestando pleno conhecimento das condições contratuais;
+XX - proposta de contratação: documento com a declaração dos elementos essenciais do interesse a ser garantido e do risco, em que o proponente, pessoa física ou jurídica, expressa a intenção de contratar uma cobertura (ou coberturas), manifestando pleno conhecimento das condições contratuais;
+XXI - Provisão Matemática de Benefícios a Conceder (PMBaC): valor da Provisão Matemática de Benefícios a Conceder calculado conforme previsto na nota técnica atuarial do plano;
+XXII - renda: série de pagamentos periódicos a que tem direito o assistido (ou assistidos), de acordo com a estrutura do plano;
+XXIII - resgate: instituto que permite ao segurado, antes da ocorrência do sinistro, o resgate de recursos da Provisão Matemática de Benefícios a Conceder;
+XXIV - saldamento: interrupção definitiva do pagamento dos prêmios, mantendo-se o direito à percepção proporcional do capital segurado contratado pela vigência original;
+XXV - segurado: pessoa física sobre a qual se procederá a avaliação do risco e se estabelecerá o seguro;
+XXVI - seguro prolongado: interrupção definitiva do pagamento dos prêmios, mantendo-se o mesmo capital segurado contratado com vigência reduzida proporcionalmente;
+XXVII - sinistro: a ocorrência do risco coberto, durante o período de vigência do plano de seguro;
+XXVIII - vesting: conjunto de cláusulas constantes do contrato coletivo que o segurado, tendo expresso e prévio conhecimento, é obrigado a cumprir para que lhe possam ser oferecidos e postos à disposição os recursos da provisão (ou provisões) decorrentes dos prêmios pagos pelo estipulante.
+CAPÍTULO II
+ASPECTOS GERAIS
+Coberturas
+Art. 3º As coberturas de que trata esta Resolução poderão ser contratadas de forma individual ou coletiva e deverão ser estruturadas na modalidade de benefício definido, segundo a qual os valores do capital segurado, pagável de uma única vez ou sob a forma de renda, e respectivos prêmios, são estabelecidos previamente, na proposta de contratação, em caso de planos individuais, ou na proposta de adesão, em caso de planos coletivos.
+Parágrafo único. Quando o capital segurado for pago sob a forma de renda, no cálculo de fatores relacionados à sobrevivência deve ser observada a regulamentação específica sobre seguro de pessoas com cobertura por sobrevivência.
+Art. 4º Serão admitidos os seguintes regimes financeiros:
+I - capitalização: para capitais segurados pagáveis de uma única vez ou sob a forma de renda atuarial ou financeira;
+II - repartição de capitais de cobertura: para capitais segurados pagáveis sob a forma de renda atuarial ou financeira; e
+III - repartição simples: para capitais segurados pagáveis de uma única vez ou em parcelas.
+Parágrafo único. É vedada a comercialização de seguro de pessoas em moeda estrangeira quando estruturado no regime financeiro de capitalização.
+Art. 5º Exclusivamente para as coberturas estruturadas no regime financeiro de capitalização, antes da ocorrência do sinistro, e desde que expressamente previsto nas condições contratuais, será permitido ao segurado, observada a regulamentação específica:
+I - resgatar os recursos da PMBaC;
+II - portar os recursos da PMBaC para outro plano de seguro de pessoas estruturado no regime financeiro de capitalização;
+III - optar pelo saldamento, que consiste na interrupção definitiva do pagamento dos prêmios, mantendo-se o direito à percepção proporcional do capital segurado contratado pela vigência original; e
+IV - optar pelo seguro prolongado, que consiste na interrupção definitiva do pagamento dos prêmios, mantendo-se o mesmo capital segurado contratado com vigência reduzida proporcionalmente.
+§ 1º Em caso de opção pelo saldamento ou seguro prolongado, deverão ser mantidas as características da cobertura originalmente contratada, conforme disposto nas condições contratuais.
+§ 2º Em caso de portabilidade, os recursos financeiros deverão ser movimentados diretamente entre as sociedades seguradoras, ficando vedado que transitem, de qualquer forma, pelo segurado ou pelo estipulante e que haja a cobrança de quaisquer despesas, salvo as relativas a eventuais tarifas bancárias necessárias à portabilidade.
+§ 3º A sociedade seguradora receptora dos recursos não poderá cobrar carregamento sobre o montante portado.
+Art. 6º Para os menores de catorze anos é permitido, exclusivamente, seja na condição de segurado principal ou dependente, o oferecimento e a contratação de coberturas cuja indenização se dê sob a forma de reembolso de despesas ou prestação de serviços, desde que a despesa ou serviço estejam diretamente relacionados ao sinistro coberto.
+Parágrafo único. A restrição de que trata o caput deste artigo não se aplica a coberturas de doenças graves não infecciosas ou doenças congênitas, desde que não sucetíveis a serem provocadas intencionalmente.
+Art. 7º A recusa do risco pela razão única de o proponente ser pessoa com deficiência configurará discriminação e será, por consequência, passível de punição nos termos da regulamentação específica.
+Art. 8º Quando houver previsão de pagamento do prêmio por meio de consignação em folha, as condições contratuais deverão prever que a ausência do repasse à sociedade seguradora dos prêmios recolhidos por consignante que não corresponda à figura de estipulante não poderá causar qualquer prejuízo aos segurados ou respectivos beneficiários no que se refere à cobertura e demais direitos oferecidos.
+Art. 9º Deverão ser especificados na apólice, no certificado individual, no bilhete e nas propostas o início e o final da vigência das coberturas contratadas, observada a regulação em vigor.
+Art. 10. Será estabelecido carregamento sobre o valor dos prêmios comerciais, para fazer face às despesas administrativas e de comercialização, ficando vedada a cobrança de inscrição ou quaisquer outros encargos ou comissões adicionais incidentes sobre o valor dos prêmios.
+Parágrafo único. O carregamento estabelecido não poderá sofrer aumento durante a vigência da apólice, ficando sua redução a critério da sociedade seguradora.
+Prazo de carência
+Art. 11. O prazo de carência corresponde ao período contado a partir da data de início de vigência da cobertura ou da sua reabilitação, no caso de suspensão, durante o qual, na ocorrência do sinistro, o segurado ou os beneficiários não terão direito à percepção dos capitais segurados contratados, no todo ou em parte, conforme dispuserem as condições contratuais.
+Parágrafo único. O prazo de carência poderá ser aplicado às solicitações de aumento de capital segurado efetuadas após o início de vigência, em relação à parte aumentada, desde que previsto nas condições contratuais.
+Art. 12. O prazo de carência, exceto no caso de suicídio ou sua tentativa, não poderá exceder metade do prazo de vigência previsto pela apólice, no caso de contratação individual, ou pelo certificado individual, no caso de contratação coletiva.
+Art. 13. Em caso de renovação de apólice, não será iniciado novo prazo de carência, exceto no caso previsto no parágrafo único do art. 11.
+Art. 14. Para sinistros decorrentes de acidentes pessoais não será aplicável prazo de carência, exceto no caso de suicídio ou sua tentativa, quando o referido prazo corresponderá a dois anos ininterruptos.
+Art. 15. Em caso de morte do segurado durante o prazo de carência, a PMBaC, se houver, deverá ser revertida aos beneficiários.
+Pagamento de indenização
+Art. 16. As condições contratuais poderão admitir, para fins de indenização, preferencialmente, as hipóteses de pagamento em dinheiro, no valor do capital segurado contratado ou sob a forma de reembolso, ou prestação de serviços, sem prejuízo de outras formas pactuadas entre as partes.
+Art. 17. Para coberturas que prevejam o reembolso de despesas, é vedada a exigência de comunicação à sociedade seguradora previamente à efetivação de despesa relacionada a evento coberto pelo seguro.
+Art. 18. É vedada a adoção de cláusula de concorrência de apólices, exceto no caso de coberturas que garantam o reembolso de despesas.
+Art. 19. Nos seguros de pessoas, a sociedade seguradora não pode sub-rogar-se nos direitos e ações do segurado, ou do beneficiário, contra o causador do sinistro.
+Art. 20. É vedada a inclusão de cláusula que fixe prazo máximo para a comunicação de sinistro.
+Reversão de resultados financeiros
+Art. 21. É facultada a previsão de reversão de resultados financeiros durante a concessão do capital segurado sob a forma de renda.
+§ 1º Serão aplicáveis, durante o período de reversão de resultados financeiros, as normas que regulamentam o cálculo e a reversão de resultados financeiros, excedentes ou déficits, em planos de seguro que ofereçam cobertura por sobrevivência.
+§ 2º Os critérios para apuração e reversão de resultados financeiros deverão constar nas condições contratuais.
+Alteração contratual
+Art. 22. Qualquer alteração no contrato de seguro em vigor somente poderá ser realizada com a concordância expressa do segurado ou de seu representante legal, observadas as particularidades aplicáveis aos seguros coletivos expressas em regulamentação específica.
+Contratação coletiva
+Art. 23. O plano coletivo é de adesão facultativa, exceto nos casos de contratação obrigatória previstos em Lei, e deverá estar disponível a todos os componentes do grupo que atendam às condições previstas para o ingresso, conforme estabelecido no contrato coletivo.
+Art. 24. Nas hipóteses de perda de vínculo do segurado com o estipulante ou cancelamento de contrato coletivo, em plano estruturado no regime financeiro de capitalização, deverá ser garantido ao segurado acesso aos recursos de provisão originados de prêmios pagos por ele por, pelo menos, um dos institutos previstos no art. 5º, independentemente de eventual período de carência previsto no plano.
+Art. 25. Nos planos estruturados no regime financeiro de capitalização em que haja pagamento de prêmio total ou parcialmente pelo estipulante, serão aplicáveis, no caso de perda de vínculo do segurado com o estipulante sem o cumprimento integral das cláusulas do contrato coletivo que regem o vesting ou no caso de extinção do contrato coletivo, as normas que regulamentam tais cláusulas em planos de seguro que ofereçam cobertura por sobrevivência.
+Art. 26. É admitida a estruturação de planos de seguro de pessoas com capital global, no qual o valor do capital segurado referente a cada componente sofrerá variações decorrentes de mudanças na composição do grupo segurado.
+§ 1º Não poderá ser estabelecido limite máximo para o capital segurado individual, o qual deverá ser apurado na data do evento coberto, sendo equivalente ao valor do capital segurado global dividido pelo número de segurados.
+§ 2º O critério de definição do número de segurados deverá constar das condições contratuais.
+§ 3º É vedado que o segurado seja responsável pelo custeio do prêmio, total ou parcialmente.
+§ 4º O contrato coletivo poderá estabelecer critérios específicos relacionados à variação da quantidade de componentes do grupo segurado em relação à quantidade original que ensejem o dever de comunicação à seguradora para fins de avaliação de necessidade de repactuação do valor do capital segurado global.
+§ 5º Na hipótese de eventual descumprimento do dever de comunicação que trata o § 4º deste artigo, na forma prevista contratualmente, é admitido que o contrato coletivo estabeleça que, em caso de ocorrência de sinistro, o capital segurado individual será apurado com base no número de segurados existente quando da última comunicação formal à seguradora quanto à quantidade efetiva de componentes do grupo segurado ou, na sua falta, com base no número de segurados existente à época do início de vigência da apólice.
+§ 6º O preenchimento de proposta de adesão e a emissão do certificado individual não são obrigatórios para os seguros de que trata o caput.
+Art. 27. É admitida a estruturação de seguro coletivo de acidentes pessoais que possua as seguintes características:
+I - não conhecimento prévio da identidade das pessoas naturais expostas aos riscos segurados; e
+II - vinculação das coberturas a riscos restritos ao período de permanência das pessoas naturais seguradas em um evento organizado e/ou em uma área delimitada, desde que devidamente identificados na apólice de seguro, inclusive no que se refere à localização geográfica.
+§ 1º O seguro de que trata o caput deve ser não contributário, sendo dispensado o preenchimento de proposta de adesão por parte das pessoas de que trata o inciso I e o envio de certificado individual.
+§ 2º No caso da cobertura de morte acidental, os beneficiários do seguro de que trata o caput serão aqueles especificados no Código Civil vigente.
+Art. 28. Considera-se encampação a substituição de apólice coletiva ao fim de sua vigência por nova apólice emitida por outra sociedade seguradora.
+§ 1º No caso de encampação de apólice de seguro não contributário estipulado por empregador em favor de seus empregados, é admitida a dispensa de proposta de adesão desde que não haja modificação na apólice que implique ônus ou dever para os segurados ou redução de seus direitos.
+§ 2º A dispensa de que trata o §1º deste artigo não implica a dispensa de emissão e de envio e/ou disponibilização dos certificados individuais aos segurados, nos termos da regulamentação específica.
+Art. 29. Considera-se migração a substituição de apólice coletiva por nova apólice emitida por outra sociedade seguradora em período não coincidente com o término da respectiva vigência.
+§ 1º No caso de recepção de grupo de segurados e assistidos, originada em processo de migração de apólices, deverão ser admitidos todos os componentes do grupo cuja cobertura esteja em vigor.
+§ 2º No caso de que trata o caput, deverá haver emissão e envio e/ou disponibilização dos certificados individuais aos segurados, nos termos da regulamentação específica, e não será reiniciada a contagem de prazo de carência para segurados já incluídos no seguro pela apólice anterior, em relação às coberturas e respectivos valores já contratados.
+§ 3º É admitida a dispensa do recolhimento de anuência de três quartos do grupo segurado para migração de apólice coletiva em seguros não contributários estipulados por empregadores em favor de seus empregados desde que não haja modificação que implique ônus ou dever para os segurados ou redução de seus direitos.
+§ 4º No caso de que trata o § 3º deste artigo, é admitida a dispensa da proposta de adesão à nova apólice coletiva.
+CAPÍTULO III
+SEGUROS ESPECÍFICOS
+Seguro de vida para vigilantes
+Art. 30. No seguro a que se refere o art. 19, inciso IV, da Lei nº 7.102, de 20 de junho de 1983, devem ser observadas as disposições desta Resolução e demais regulamentações aplicáveis aos seguros de pessoas coletivos, devendo ser contratada, no mínimo, a cobertura de morte por causas naturais e acidentais.
+§ 1º O estipulante deverá observar os termos da convenção coletiva de trabalho da categoria profissional de vigilante para definição dos capitais segurados mínimos, por vigilante e por cobertura.
+§ 2º Outras coberturas poderão ser incluídas no seguro, a critério das partes contratantes, observadas as regulamentações vigentes.
+Seguro prestamista
+Art. 31. O seguro prestamista tem por objetivo amortizar ou custear, total ou parcialmente, obrigação assumida pelo devedor, no caso de ocorrência de sinistro coberto, nos termos estabelecidos nas condições contratuais, até o limite do capital segurado contratado.
+§ 1º As coberturas do seguro prestamista poderão estar relacionadas a quaisquer riscos de seguro de pessoas.
+§ 2º O primeiro beneficiário do seguro prestamista é o credor, a quem deverá ser paga a indenização, no valor a que tem direito em decorrência da obrigação a que o seguro está atrelado, apurado na data da ocorrência do evento coberto, limitado ao capital segurado contratado.
+§ 3º A diferença entre a parcela da indenização devida ao credor e o capital segurado apurado na data do evento coberto, se houver, deverá ser paga ao próprio segurado ou ao segundo beneficiário indicado, conforme dispuserem as condições contratuais.
+§ 4º Na falta de indicação expressa de segundo beneficiário, ou se por qualquer motivo não prevalecer a que for feita, serão beneficiários aqueles indicados por lei.
+§ 5º O prazo de vigência do seguro prestamista não poderá superar o prazo da obrigação a que está atrelado, quando esta possuir data prevista de término.
+§ 6º Para fins do disposto neste artigo, entende-se por:
+I - obrigação: dívida ou compromisso financeiro a que o seguro está atrelado, com vínculo contratual entre credor e devedor, que confere ao credor o direito de exigir do devedor o pagamento do valor correspondente.
+II - credor: aquele a quem o segurado paga prestações periódicas em decorrência da dívida contraída ou do compromisso assumido.
+Art. 32. O seguro prestamista poderá ser contratado para obrigações assumidas por pessoas jurídicas de direito privado, desde que haja relação direta entre os riscos cobertos e a capacidade de a pessoa jurídica honrar o pagamento do valor relacionado à obrigação em caso de sinistro.
+§ 1º O seguro deve ser feito sobre a vida de um ou mais sócios, titulares, instituidores, administradores ou empresários.
+§ 2º A formalização da inclusão de cada segurado deve ser realizada por meio do preenchimento de sua respectiva proposta.
+Art. 33. É admitida a elaboração de seguro prestamista empresarial integral, no qual o valor do capital segurado referente a cada sócio sofrerá variações decorrentes de mudanças na composição societária do estipulante, desde que apresente, simultaneamente, as seguintes características:
+I - seja seguro coletivo estipulado pela pessoa jurídica contratante da obrigação a que o seguro está atrelado, sem dispensa do preenchimento e assinatura de proposta de contratação; e
+II - o capital segurado individual seja apurado na data do evento, proporcionalmente à participação do segurado sinistrado na composição societária do estipulante em relação ao capital segurado integral.
+§ 1º As condições contratuais deverão prever as consequências da ocorrência de variação significativa na composição societária do estipulante em relação à composição existente no início da vigência do seguro.
+§ 2º O preenchimento da proposta de adesão e a emissão do certificado individual não são obrigatórios para os seguros de que trata o caput.
+Art. 34. Aplicam-se ao seguro de vida do produtor rural as disposições regulamentares aplicáveis ao seguro prestamista.
+Acidentes pessoais de passageiros
+Art. 35. É admitida a estruturação de cobertura de acidentes pessoais de passageiros que possua as seguintes características:
+I - não identificação prévia da identidade das pessoas naturais expostas aos riscos segurados; e
+II - vinculação das coberturas a riscos relacionados à utilização do meio de transporte indicado na apólice/certificado/bilhete de seguro pelas pessoas de que trata o inciso I deste artigo.
+§ 1º No seguro de que trata o caput é dispensado o preenchimento de proposta por parte das pessoas de que trata o inciso I deste artigo devendo ser observados os requisitos de formalização da contratação do seguro.
+§ 2º No caso da cobertura de morte acidental, os beneficiários do seguro de que trata o caput serão aqueles especificados no Código Civil vigente.
+CAPÍTULO IV
+DISPOSIÇÕES FINAIS
+Art. 36. O descumprimento do disposto nesta Resolução sujeita as sociedades seguradoras e seus administradores às medidas e sanções legais e regulamentares previstas nas normas vigentes.
+Art. 37. Os planos de seguros de pessoas registrados na Susep antes do início de vigência desta Resolução, e que não estejam em conformidade com suas disposições, deverão ser adaptados à presente norma em até duzentos e setenta dias após sua entrada em vigor, sob pena de aplicação das penalidades cabíveis.
+Art. 38. Os planos de seguro de pessoas registrados ou alterados na Susep a partir do início de vigência desta Resolução deverão obedecer aos critérios nela definidos.
+Art. 39. Fica a Susep autorizada a editar regulamentação e a adotar as medidas julgadas necessárias à execução do disposto nesta Resolução.
+Art. 40. Ficam revogados:
+I - a Resolução CNSP nº 05, de 10 de julho de 1984;
+II - a Resolução CNSP nº 117, de 22 de dezembro de 2004;
+III - a Resolução CNSP nº 129, de 6 de julho de 2005;
+IV - a Resolução CNSP nº 130, de 17 de outubro de 2005
+V - a Resolução CNSP nº 137, de 18 de novembro de 2005;
+VI - a Resolução CNSP nº 315, de 29 de setembro de 2014;
+VII - a Resolução CNSP nº 329, de 22 de setembro de 2015;
+VIII - a Resolução CNSP nº 352, de 20 de dezembro de 2017;
+IX - a Resolução CNSP nº 365, de 11 de outubro de 2018; e
+X - o art. 1º da Resolução CNSP nº 362, de 21 de junho de 2018.
+Art. 41. Esta Resolução entra em vigor em 1º de agosto de 2022.
+ALEXANDRE MILANESE CAMILLO
+

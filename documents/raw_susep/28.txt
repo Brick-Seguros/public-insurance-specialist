@@ -1,0 +1,291 @@
+
+
+
+EDITAL ELETRÔNICO SUSEP Nº 1/2021
+PARTICIPAÇÃO EM AMBIENTE REGULATÓRIO EXPERIMENTAL (SANDBOX REGULATÓRIO)
+A SUPERINTENDENTE DA SUPERINTENDÊNCIA DE SEGUROS PRIVADOS - SUSEP, no uso das atribuições que lhe foram delegadas pelo artigo 4° da Resolução CNSP n° 381, de 04 de março de 2020, torna público o presente Edital para seleção de interessados em participar exclusivamente de ambiente regulatório experimental (Sandbox Regulatório), nos termos da Resolução CNSP n° 381, de 04 de março de 2020, e da Circular Susep n° 598, de 19 de março de 2020, e de acordo com as condições estabelecidas neste Edital e seus anexos.
+1. INTRODUÇÃO
+A Susep, por meio do presente Edital, torna público o processo de seleção para os interessados em participar do Sandbox Regulatório que possuam projeto inovador.
+Considera-se projeto inovador, para fins de participação no certame, e nos termos da Resolução CNSP n° 381, de 2020 e da Circular Susep n° 598, de 2020, aquele que envolva o desenvolvimento de produto e/ou serviço no mercado de seguros oferecido ou desenvolvido a partir de novas tecnologias, metodologias, processos, procedimentos ou de tecnologias existentes aplicadas de modo diverso.
+2. OBJETO DO CERTAME
+A participação no Sandbox Regulatório prevista neste edital de participação compreende duas etapas subsequentes:
+I - a primeira, relativa ao processo de seleção; e
+II - a segunda, relativa à concessão da autorização temporária.
+A seleção na primeira etapa é pré-requisito para a etapa de autorização temporária e não gera direito adquirido à concessão desta.
+A Susep analisará no processo de seleção os 10 (dez) primeiros interessados que protocolarem projetos inovadores dentro do prazo de inscrições deste Edital.
+Caso algum (ou alguns) dos 10 (dez) primeiros projetos inovadores protocolados não atendam aos requisitos dispostos neste Edital, na Resolução CNSP n° 381, de 2020, e na Circular Susep n° 598, de 2020, a Susep analisará o próximo projeto inovador, respeitada a ordem de protocolo, até atingir o limite de 10 (dez) projetos selecionados.
+A Susep poderá, a seu critério, selecionar até 5 (cinco) projetos inovadores adicionais, respeitados os mesmos critérios estabelecidos neste Edital, na Resolução CNSP n° 381, de 2020, e na Circular Susep n° 598, de 2020.
+3. ELEGIBILIDADE
+São requisitos para participação no Sandbox Regulatório:
+I - apresentar produto e/ou serviço que se enquadre no conceito de projeto inovador;
+II - utilizar meios remotos nas operações relacionadas a seus planos de seguro, na forma disposta na regulamentação específica;
+III - apresentar como a tecnologia empregada no produto e/ou no serviço é inovadora ou como está sendo utilizada de maneira inovadora;
+IV - apresentar produto e, quando for o caso, serviço, em estágio de desenvolvimento compatível com a expectativa de concessão da autorização temporária;
+V - apresentar plano de negócios, com os requisitos descritos neste Edital; e
+VI - apresentar análise dos principais riscos associados à sua atuação, incluindo aqueles relativos a segurança cibernética, e o plano de mitigação de eventuais danos causados aos clientes.
+O interessado em participar do Sandbox Regulatório poderá operar exclusivamente os ramos de seguro, as coberturas, os limites de importância segurada e o número máximo de riscos previsto no Anexo II deste Edital.
+4. PROCEDIMENTOS PARA INSCRIÇÃO E ENVIO DA DOCUMENTAÇÃO
+O interessado em participar do Sandbox Regulatório deverá enviar à Susep todos os documentos solicitados neste Edital, na Circular Susep nº 598, de 2020, e na Resolução CNSP nº 381, de 2020, nos prazos estabelecidos. O envio deve ser feito por meio de peticionamento eletrônico disponível no Sistema Eletrônico de Informações (SEI).
+Serão desconsiderados protocolos realizados no SEI antes ou após o término do prazo de inscrições indicado neste Edital.
+A documentação para participação no processo seletivo deverá ser integralmente entregue no momento do envio da inscrição à Susep, ressalvados documentos adicionais que eventualmente sejam solicitados pela Autarquia, durante o processo de análise dos projetos. Nesse caso, os interessados deverão atender à solicitação da Autarquia no prazo estipulado, sob pena de serem eliminados do certame.
+O plano de negócios de que trata o inciso V do art. 5° da Resolução CNSP n° 381, de 2020, com no máximo 40 (quarenta) páginas, deverá dispor, no mínimo, sobre os seguintes itens:
+a) indicação da denominação (razão social e nome fantasia) que pretende adotar e, no caso de pessoa jurídica já constituída, havendo intenção de modificação, a denominação atual da empresa (razão social e nome fantasia);
+b) objetivos estratégicos;
+c) descrição de breve histórico, do propósito (missão) e visão da empresa;
+d) detalhamento da estrutura organizacional, incluindo as competências de cada diretor assim como seus históricos profissionais;
+e) exposição do problema a ser solucionado pelo produto e/ou serviço oferecido, incluindo descrição sobre ganhos e benefícios ao mercado e, em particular, aos consumidores;
+f) comparativo entre o produto e/ou serviço objeto do projeto inovador e os produtos e/ou serviços oferecidos atualmente, ressaltando suas similaridades e diferenças;
+g) demonstração do potencial de redução de custos para o consumidor, quando houver;
+h) mercado alvo de atuação, incluindo informação sobre os possíveis clientes, região de atuação e outras informações relevantes;
+i) projeção de capilaridade;
+j) projeções de vendas e projeções financeiras, evidenciando a evolução patrimonial no período, estimando no mínimo 2 (dois) cenários;
+k) métricas de desempenho relativas à atuação da sociedade seguradora e periodicidade de aferição em relação ao projeto inovador;
+l) riscos que podem afetar o negócio e/ou consumidores e os respectivos planos de mitigações dos riscos e/ou seus efeitos;
+m) demonstração da visão da solução desenvolvida, evidenciando a arquitetura tecnológica empregada, a topologia de serviços e terceiros envolvidos e uma descrição objetiva de sua operacionalização;
+n) parâmetros de precificação;
+o) prova de conceito do produto e/ou serviço;
+p) política de investimentos constando, de forma expressa, a opção de que trata o §2° do art. 29 da Resolução CNSP nº 381, de 2020;
+q) cronograma detalhado das fases pré e pós operacional do projeto;
+r) participação ou não no Sistema de Seguros Aberto (Open Insurance); e
+s) plano de descontinuidade das atividades, com o planejamento para saída do ambiente regulatório experimental, prevendo plano de contingência para descontinuação ordenada, pelos motivos elencados na regulamentação específica ou por causas extraordinárias (a ser apresentado em anexo ao plano de negócios).
+O plano de negócios a ser apresentado deverá estar acompanhado das condições contratuais dos planos de seguro em arquivos separados. As notas técnicas atuariais dos planos de seguros deverão ficar sob guarda da sociedade seguradora, com o devido controle de versionamento em caso de alterações, e serem apresentadas à Susep quando solicitado.
+Os interessados que indicarem em seus planos de negócios que serão sociedades seguradoras participantes do Open Insurance deverão entregar, juntamente com o plano de negócios, a declaração prevista no Anexo IV, formalizando a ciência de que se não aderirem ao Sistema de Seguros Aberto (Open Insurance) no prazo de 120 (cento e vinte) dias contados do início da operação, a autorização temporária como sociedade seguradora será cancelada. Além disso, declararão ciência de que deverão observar a regulamentação específica sobre o tema.
+O plano de descontinuidade das atividades, que deverá ser apresentado em anexo ao plano de negócios, não integra o limite de 40 páginas do plano de negócios, e deverá levar em consideração as características das coberturas a serem comercializadas, inclusive no que se refere a prazos prescricionais e período de desenvolvimento de sinistros, tratando, no mínimo, dos seguintes aspectos:
+I - sequência de atos e procedimentos a serem executados quando do encerramento das atividades, visando ao cumprimento de obrigações legais, regulamentares e contratuais;
+II - plano de comunicação para que clientes e partes interessadas sejam avisadas tempestivamente sobre o encerramento das atividades;
+III - prazos e termos para devolução e pagamento de eventuais valores a clientes;
+IV - barreiras e riscos que podem afetar a execução do plano de descontinuidade das atividades;
+V - mecanismos a serem adotados para eliminar ou mitigar as barreiras e riscos mencionadas no item (iv); e
+VI - tipo de suporte a ser prestado a clientes após encerramento das atividades.
+5. PROCESSO DE SELEÇÃO
+A Susep realizará a análise dos documentos previstos neste Edital de participação, na Circular Susep n° 598, de 2020, e na Resolução CNSP n° 381, de 2020.
+Caso o interessado não apresente documentos necessários ou apresente documento não condizente com o solicitado, ou caso não atenda a requisições de documentos/esclarecimentos adicionais solicitados pela Autarquia no prazo por ela estipulado, ficará sujeito à eliminação do certame.
+A Comissão do Sandbox Regulatório designada pela Susep avaliará o cumprimento dos requisitos de elegibilidade, dispostos na seção 3, o plano de negócios, disposto na seção 4, e efetuará a análise técnica de seleção prevista nesta seção. A referida Comissão elaborará relatório circunstanciado sobre as avaliações feitas e conclusões e submeterá para aprovação do Superintendente da Susep, observado o prazo para divulgação do resultado.
+5.1. Análise Técnica
+A Susep poderá definir data, horário e local para a realização de entrevista de apresentação do projeto inovador, caso julgue necessário, podendo esta ser realizada por meio de videoconferência. Em caso de ausência na entrevista agendada, o interessado ficará sujeito à eliminação do certame.
+Será considerado habilitado o projeto inovador que atingir a pontuação mínima de 85 (oitenta e cinco) pontos, de acordo com os critérios estabelecidos na Tabela 1:
+
+
+
+
+
+
+Critério
+Pontuação Mínima
+Pontuação Máxima
+
+
+1. Participação no Open Insurance
+0
+25
+
+
+2. Emprego de nova tecnologia.
+0
+15
+
+
+3. Redução de custos para o consumidor.
+0
+15
+
+
+4. Produto e/ou serviço diferente do que é oferecido no mercado atualmente.
+0
+10
+
+
+5. Produto e/ou serviço escalável (pode ser vendido em larga escala).
+0
+15
+
+
+6. Produto e/ou serviço dependente de Sandbox Regulatório para ser comercializado.
+0
+10
+
+
+7. Experiência prévia comprovada do(s) sócio(s) controlador(es) com projetos deinovação e/ou startups.
+0
+10
+
+
+8. Projeção de riscos aos consumidores com demonstração de salvaguardas suficientes, critérios de mitigação claros e forma de reparação de possíveis danos.
+0
+10
+
+
+9. Processo de contratação e cancelamento simplificado.
+0
+15
+
+
+
+Tabela 1 - Tabela de pontuação do projeto inovador
+5.2. Divulgação do Resultado
+A Susep publicará em até 45 (quarenta e cinco) dias, contados a partir do fim das inscrições deste Edital, por meio de seu sítio eletrônico, o resultado do processo seletivo.
+A qualquer tempo, até a divulgação do resultado, a Susep poderá convocar os participantes para a realização de reuniões de esclarecimentos, podendo estas serem realizadas por meio de videoconferência.
+6. CONCESSÃO DA AUTORIZAÇÃO
+Os pedidos de autorização temporária deverão ser precedidos de realização de entrevista técnica com a Coordenação-Geral da Susep responsável, na qual deverão ser apresentados os aspectos gerais do projeto.
+No prazo de até 30 (trinta) dias contados da divulgação do resultado, os interessados selecionados deverão efetuar pedido de autorização temporária no Sandbox Regulatório, acompanhado da documentação prevista na Resolução CNSP n° 381, de 2020, e na Circular Susep n° 598, de 2020. O envio deve ser feito por meio de peticionamento eletrônico disponível no SEI.
+A Susep comunicará a cada selecionado, no prazo de 60 (sessenta) dias contados da realização do seu pedido de autorização temporária, sobre o atendimento das condições preliminares necessárias à concessão da sua autorização temporária.
+No prazo de até 60 (sessenta) dias contados do recebimento da referida comunicação, os interessados em constituir a sociedade seguradora participante do Sandbox Regulatório deverão comprovar que formalizaram os atos societários de constituição e de eleição dos primeiros administradores e demais membros dos órgãos estatutários da pessoa jurídica objeto da autorização para funcionamento, submetendo-os à aprovação da Susep; designar, perante a Susep, diretor responsável pela participação no Sandbox Regulatório; comprovar a origem dos recursos utilizados no empreendimento por todos os investidores, por meio de documentos que indiquem a rastreabilidade de sua fonte; atender, ainda, aos demais requisitos estabelecidos na Resolução CNSP n° 381, de 2020, e na Circular Susep n° 598, de 2020. Atendidas as providências aqui descritas, a Susep expedirá a autorização temporária de sociedade seguradora participante do Sandbox Regulatório.
+Até a expedição da autorização para funcionamento por prazo determinado, a pessoa jurídica não será considerada, para quaisquer fins, como sociedade seguradora participante do Sandbox Regulatório, sendo vedada a realização de quaisquer operações privativas destas sociedades.
+Os interessados que tiverem seus projetos aprovados e cumprirem todos os requisitos para constituição da sociedade seguradora participante do Sandbox Regulatório terão prazo de 36 (trinta e seis) meses para operação, contados da data do efetivo início da comercialização dos planos de seguro ou 60 (sessenta) dias após a expedição pela Susep da autorização para funcionamento por prazo determinado, o que ocorrer primeiro.
+7. CRONOGRAMA DO CERTAME
+
+
+
+
+
+
+Inscrições
+De 30/08/2021 a 09/09/2021
+10 dias
+
+
+Divulgação do resultado do processo seletivo
+Até 24/10/2021
+45 dias
+
+
+Realização do pedido de autorização temporária
+Até 23/11/2021
+30 dias
+
+
+
+A Susep comunicará a cada selecionado, no prazo de 60 (sessenta) dias contados da realização do seu pedido de autorização temporária, sobre o atendimento das condições preliminares necessárias à concessão da sua autorização temporária.
+A partir do recebimento da referida comunicação, os selecionados terão 60 (sessenta) dias para comprovar o atendimento dos requisitos para obtenção da autorização temporária, conforme descrito na seção 6 deste Edital.
+A Susep poderá, no curso do exame do pedido de autorização temporária, sobrestar a análise, caso verifique a necessidade de esclarecimentos ou documentos adicionais dos interessados.
+8. ENVIO DE INFORMAÇÕES À SUSEP
+As sociedades seguradoras que ao final do certame forem autorizadas enviarão informações à Susep por meio de Interface de Programa de Aplicativos (Application Programming Interface), ou simplesmente "API".
+O envio ocorrerá por meio do Sistema de Recebimento de Dados da Susep através de protocolo de comunicação HTTP, utilizando APIs RESTful e Web Services SOAP. A documentação do uso das APIs poderá ser acessada no Portal de APIs da Susep e estarág definida no Padrão Swagger.
+9. PARTICIPANTES DO SANDBOX REGULATÓRIO DO EDITAL Nº 02/2020
+As sociedades seguradoras participantes do Sandbox Regulatório estabelecido pelo Edital nº 02/2020 poderão solicitar, a partir da publicação do presente Edital, a comercialização de produtos de ramos e/ou a adequação aos limites máximos de indenização e ao número máximo de riscos, previstos no Anexo II, e que não estavam previstos no Edital nº 02/2020, desde que:
+I - observem os requisitos previstos nos incisos I a III da seção 3 deste Edital, demonstrando ainda que produto e, quando for o caso, serviço, encontra-se apto(s) a entrar em operação; e
+II - adiram ao Sistema de Seguros Aberto (Open Insurance), em até 120 dias após a data do pleito de adequação.
+A solicitação deve ser endereçada à área técnica responsável na Susep juntamente (i) com a declaração prevista no Anexo V, por meio da qual formalizam a ciência de que deverão participar do Open Insurance, observando a regulamentação específica sobre o tema, em até 120 dias após a data do pleito de adequação, sob pena de cancelamento da autorização temporária; e (ii) com o plano de negócios de que trata a Circular Susep nº 598, de 2020, devidamente ajustado.
+Na hipótese prevista nesta seção, após autorização da Susep, a sociedade seguradora estará submetida aos limites máximos de indenização, ao número máximo de riscos e demais condições estabelecidas no Anexo II deste Edital, que valerão para toda a sua operação, inclusive para ramos ou coberturas já comercializados. Não é permitida a combinação de limites previstos no Anexo II com limites previstos no Edital nº 02/2020.
+Na solicitação de comercialização de novos produtos de ramos que estejam previstos no Anexo II, devem ser encaminhadas ainda as condições contratuais dos planos de seguro que se pretende comercializar. As notas técnicas atuariais dos planos de seguros deverão ficar sob guarda da sociedade seguradora, disponíveis sob solicitação da Susep.
+A solicitação prevista nesta seção não altera o prazo da autorização temporária concedido previamente à sociedade seguradora participante do Sandbox Regulatório. Esses participantes não contarão como projetos selecionados para o novo edital de participação.
+SOLANGE PAIVA VIEIRA
+ANEXOS
+ANEXO I - Formulário Cadastral
+FINALIDADE DE PREENCHIMENTO
+[ ]CONTROLADOR
+[ ] DETENTOR DE PARTICIPAÇÃO QUALIFICADA
+[ ] ADMINISTRADORES IDENTIFICAÇÃO DA ENTIDADE SUPERVISIONADA
+DENOMINAÇÃO:
+IDENTIFICAÇÃO DA PESSOA FÍSICA NOME COMPLETO:
+FILIAÇÃO:
+NACIONALIDADE:
+LOCAL/DATA NASCIMENTO (CIDADE E ESTADO):
+SEXO:
+PROFISSÃO:
+ESTADO CIVIL E REGIME DE CASAMENTO:
+NOME DO CÔNJUGE OU COMPANHEIRO(A):
+CPF:
+E-MAIL:
+ENDEREÇO RESIDENCIAL COMPLETO:
+BAIRRO OU DISTRITO:
+CEP:
+MUNICÍPIO / UF:
+DDD/TELEFONE:
+[ ] Declaro assumir integral responsabilidade pela fidedignidade das informações ora prestadas, ficando a Superintendência de Seguros Privados desde já autorizada a delas fazer, nos limites legais e em juízo ou fora dele, o uso que lhe aprouver.
+[ ] Declaro não estar inabilitado ou suspenso para o exercício de cargo em instituições financeiras e demais entidades autorizadas a funcionar pela Comissão de Valores Mobiliários - CVM, pelo Banco Central do Brasil - BCB, pela Superintendência de Seguros Privados - Susep, pela Agência Nacional de Saúde Suplementar - ANS ou pela Superintendência Nacional de Previdência Complementar - PREVIC.
+[ ] Declaro não haver sido condenado por crime falimentar, prevaricação, suborno, concussão, peculato, "lavagem" de dinheiro ou ocultação de bens, direitos e valores, contra a economia popular, a ordem econômica, as relações de consumo, a fé pública ou a propriedade pública, o sistema financeiro nacional, ou a pena criminal que vede, ainda que temporariamente, o acesso a cargos públicos, por decisão transitada em julgado, ressalvada a hipótese de reabilitação.
+[ ] Declaro não estar impedido de administrar meus bens ou deles dispor em razão de decisão judicial ou administrativa.
+[ ] Declaro inexistir restrições que possam afetar a minha reputação nos termos do art. 3º do Anexo II da Resolução CNSP nº 330, de 2015.
+[ ] Autorizo que a Susep tenha acesso as informações a meu respeito constantes de qualquer sistema público ou privado de cadastro e informações, inclusive processos e procedimentos judiciais ou administrativos, para uso exclusivo no respectivo processo de autorização.
+[ ] Autorizo que a Receita Federal do Brasil forneça à Susep cópia da declaração de rendimentos, de bens e direitos e de dívidas e ônus reais, relativa aos dois últimos exercícios, para uso exclusivo no respectivo processo de autorização.
+LOCAL E DATA
+ASSINATURA
+ANEXO II - Ramos de seguro, limites de risco e importância segurada
+Observados os requisitos de vigência de apólices, bilhetes de seguro e coberturas, estabelecidos na Circular Susep nº 598, de 2020, podem ser comercializadas:
+I - coberturas do grupo Automóvel, à exceção de carta verde, DPVAT e garantia estendida - auto;
+II - coberturas do grupo Patrimonial, à exceção de coberturas de riscos de engenharia, riscos nomeados e operacionais, garantia estendida e global de bancos;
+III - coberturas do grupo Pessoas Individual, à exceção de seguro prestamista, seguro educacional, seguro viagem para viagens internacionais e coberturas de invalidez, e desde que estruturadas no regime financeiro de repartição e com capital segurado pago de forma única;
+IV - cobertura de fiança locatícia, desde que para contratos de locação com no máximo 1 (um) ano de vigência;
+V - cobertura para animais domésticos (pet);
+VI - cobertura para seguro agrícola, desde que para ciclos produtivos de até 6 (seis) meses; ou
+VII - planos de microsseguros, desde que para as coberturas referidas nos incisos I a VI deste Anexo.
+No grupo Automóvel, incluem-se acidentes pessoais de passageiros, casco, responsabilidade civil facultativa (RCF-Auto) e "assistência e outras coberturas". A comercialização de produtos de responsabilidade civil permitida para este grupo só poderá ser feita quando servirem a coberturas que prevejam o pagamento de indenização com a ocorrência do sinistro, independentemente de discussão sobre culpa do segurado (responsabilidade civil objetiva).
+No grupo Patrimonial, incluem-se também: (a) as coberturas para bicicleta, bicicleta elétrica, patinete elétrico e similares, permitida ainda nesses casos a comercialização de responsabilidade civil facultativa; e (b) as coberturas para celular, notebooks, tablets, câmeras e outros aparelhos eletrônicos. A comercialização de produtos de responsabilidade civil relacionados à bicicleta, bicicleta elétrica, patinete elétrico e similares só poderá ser feita quando servirem a coberturas que prevejam o pagamento de indenização com a ocorrência do sinistro, independentemente de discussão sobre culpa do segurado (responsabilidade civil objetiva).
+As coberturas de riscos diversos no grupo Patrimonial são coberturas relativas aos seguros de danos que não sejam típicas de outros ramos de seguro e não sejam enquadradas como coberturas de riscos financeiros.
+Para comercialização de cobertura de morte e/ou morte acidental, deverá ser apresentado, no plano de negócios, procedimento inovador de verificação periódica de eventual ocorrência de morte do segurado e respectivo contato com seus beneficiários para agilização do pagamento da indenização.
+É vedada a comercialização de coberturas de responsabilidade civil, ainda que em conjunto com outras coberturas previstas nos incisos I a VI deste Anexo, exceto nos casos expressamente definidos neste Edital e observadas as condições estabelecidas.
+É vedada a comercialização de coberturas para riscos não seguráveis ou sistêmicos ou coberturas com características técnicas, incluindo período de desenvolvimento de sinistros, incompatíveis com ambiente experimental de regime de autorização por tempo determinado.
+O limite máximo de indenização por cobertura é de R$ 100.000,00, à exceção da cobertura de casco do grupo Automóvel.
+O limite máximo de indenização para cobertura casco (indenização parcial ou integral) do grupo Automóvel é de R$ 150.000,00.
+O número máximo de riscos a serem subscritos é de 150.000 itens/vidas.
+Em função de suas características técnicas, incluindo período de desenvolvimento de sinistros, as coberturas de RCF auto, RCF de bicicletas e similares, fiança locatícia, seguro agrícola, morte e morte acidental somente poderão ser comercializadas até 6 (seis) seis meses antes do término do prazo de autorização temporária concedido.
+O prazo de 6 (seis) meses de que trata o parágrafo anterior poderá ser reduzido ou dispensado, de forma excepcional, a critério da Susep, em caso de processo administrativo em curso para transferência de carteira ou obtenção de autorização como sociedade seguradora fora do Sandbox Regulatório.
+A codificação de ramos e coberturas seguirá a estabelecida na Circular Susep nº 535, de 28 de abril de 2016, ou a que venha a substituir. Para as coberturas e ramos não previstos na Circular Susep nº 535, de 2016, deverá ser observada a seguinte codificação:
+
+
+
+
+
+
+Grupo
+Nome do Grupo
+Identificador do Ramo
+Nome do Ramo
+
+
+1
+Patrimonial
+1
+Bicicleta, bicicleta elétrica, patinete elétrico e similares
+
+
+1
+Patrimonial
+2
+Celular, notebooks, tablets, câmeras e outros aparelhos eletrônicos
+
+
+1
+Patrimonial
+3
+Responsabilidade civil facultativa para bicicleta, bicicleta elétrica, patinete elétrico e similares
+
+
+
+ANEXO III - Documentos a serem enviados à Susep
+Os interessados em participar do Sandbox Regulatório deverão apresentar os seguintes documentos:
+A) PARA A ETAPA DE INSCRIÇÃO NO PROCESSO SELETIVO:
+I - requerimento simplificado subscrito por representante do grupo organizador, indicando sua intenção de participar do Sandbox Regulatório, o responsável pela condução do projeto inovador perante à Susep, as coberturas de seguros e os ramos que pretende operar;
+II - plano de negócios contendo os elementos mínimos descritos na seção 4 deste Edital:
+III - condições contratuais dos planos de seguro a serem comercializados (um arquivo específico/separado para cada plano de seguro a ser comercializado); e
+IV - para os que indicarem em seus planos de negócios que serão sociedades seguradoras participantes do Open Insurance, a declaração prevista no Anexo IV.
+B) PARA A ETAPA DE AUTORIZAÇÃO TEMPORÁRIA:
+I - requerimento simplificado, subscrito por representante do grupo organizador, indicando seu interesse na obtenção de autorização temporária para operar no mercado de seguros e aderindo às disposições estabelecidas no edital de participação, entre as quais a possibilidade de cancelamento sumário da autorização ou a suspensão da comercialização dos planos de seguros, com imediata interrupção das operações e saída do mercado, caso as condições na regulamentação relativa ao Sandbox Regulatório não sejam observadas a qualquer tempo;
+II - identificação dos integrantes do grupo organizador;
+III - formulário cadastral dos integrantes do grupo organizador e futuros administradores da sociedade, conforme modelo constante no Anexo I deste Edital;
+IV - plano de negócios (incluindo o plano de descontinuidade que deve ser enviado em anexo) contendo os requisitos mínimos constantes deste Edital, indicando os planos de seguro e coberturas que pretende comercializar, em caso de alteração em relação ao plano de negócios apresentado na etapa relativa ao processo de seleção;
+V - organograma do prospectivo controlador e mapa da composição do seu capital e das pessoas jurídicas que dele participam direta ou indiretamente;
+VI - atos constitutivos dos prospectivos controladores diretos e indiretos;
+VII - indicação da forma pela qual o controle societário da entidade será exercido;
+VIII - identificação dos integrantes do grupo de controle e dos detentores de participação qualificada, com as respectivas participações societárias;
+IX - indicação de outros investimentos realizados, individualmente ou com outras empresas, pelos prospectivos controladores diretos e indiretos ou declaração da inexistência de tais investimentos;
+X - identificação da origem dos recursos a serem utilizados na operação, por meio de documentos que indiquem a rastreabilidade de sua fonte;
+XI - declarações de Ajuste Anual de Imposto de Renda - Pessoa Física das pessoas físicas prospectivas controladoras diretas ou indiretas referentes aos dois últimos exercícios, com comprovante de encaminhamento à Secretaria da Receita Federal do Brasil ou documento equivalente, no caso de residente no exterior, que evidencie a renda anual auferida e listagem dos bens, direitos e ônus da pessoa física, com o respectivo valor;
+XII - demonstrações financeiras dos dois últimos exercícios das pessoas jurídicas prospectivas controladoras diretas ou indiretas, exceto quando se tratar de entidade autorizada a funcionar pela Susep, auditadas por auditor independente devidamente registrado na Comissão de Valores Mobiliários (CVM) ou documento equivalente, no caso de pessoa jurídica sediada no exterior;
+XIII - comprovação da inexistência de restrições que possam, a critério da Susep, afetar a reputação dos interessados e/ou dos controladores e detentores de participação qualificada, nos termos do art. 3º do Anexo II da Resolução CNSP nº 330, de 2015;
+XIV - autorização firmada pelos acionistas controladores e detentores de participação qualificada à Secretaria da Receita Federal do Brasil, para fornecimento à Susep das Declarações de Ajuste Anual do Imposto de Renda - Pessoa Física ou das Declarações de Informações Econômico-Fiscais da Pessoa Jurídica, conforme o caso, relativas aos dois últimos exercícios, para uso exclusivo no respectivo processo de autorização;
+XV - autorização firmada pelos acionistas controladores, detentores de participação qualificada e membros de órgãos estatutários à Susep para acesso às informações a seu respeito em qualquer sistema público ou privado de cadastro e de informações, inclusive processos e procedimentos judiciais ou administrativos e inquéritos policiais, para uso exclusivo no respectivo processo de autorização; e
+XVI - declaração dos integrantes do grupo organizador e dos administradores da sociedade de que atendem os requisitos estabelecidos pelo inciso II, art. 6º, da Resolução CNSP nº 381, de 2020.
+ANEXO IV - Declaração sobre a formalização de participação no Open Insurance em razão de previsão no Plano de Negócios
+DECLARAÇÃO
+Declaro (i) que tenho ciência de que em razão da indicação, no plano de negócios submetido à Susep para participação no Sandbox Regulatório, de que a sociedade seguradora integrará o Sistema de Seguros Aberto (Open Insurance), minha adesão deverá ser formalizada no prazo de 120 dias contados do início da operação, sob pena de cancelamento da minha autorização temporária como sociedade seguradora participante do Sandbox Regulatório, conforme previsto no art. 30 da Circular Susep nº 598, de 5 de março de 2020; e (ii) que deverei observar a regulamentação específica sobre o tema.
+Data
+(Assinatura do representante do grupo organizador)
+ANEXO V - Declaração sobre a formalização de participação no Open Insurance para os participantes do EDITAL ELETRÔNICO Nº 2/2020/SUSEP, visando à adequação às novas coberturas, limites e condições estabelecidas
+DECLARAÇÃO
+Declaro que tenho ciência de (i) que a adequação para comercialização de novos produtos de ramos e/ou limites que não estavam previstos no EDITAL ELETRÔNICO Nº 2/2020/SUSEP demandará minha adesão ao Sistema de Seguros Aberto (Open Insurance), em até 120 dias após a data do pleito de adequação, sob pena de cancelamento da minha autorização temporária como sociedade seguradora participante do Sandbox Regulatório, conforme previsto no art. 30 da Circular Susep nº 598, de 5 de março de 2020; e (ii) que deverei observar a regulamentação específica sobre o tema.
+Data
+(Assinatura do representante legal da sociedade seguradora participante do Sandbox Regulatório)
+
+
