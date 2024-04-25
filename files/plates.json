@@ -1,0 +1,38 @@
+[
+    {
+        "plate": "ABC-1234",
+        "brand": "Wolkswagen",
+        "model": "Golf",
+        "year": 2018,
+        "color": "Red",
+        "price": 75000,
+        "image": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2018/cars/camaro/01-images/2018-camaro-1ss-convertible-1016x675.jpg"
+    },
+    {
+        "plate": "DEF-5678",
+        "brand": "Ford",
+        "model": "Mustang",
+        "year": 2019,
+        "color": "Blue",
+        "price": 63000,
+        "image": "https://www.ford.com/is/image/content/dam/vdm_ford/live/en_us/ford/nameplate/mustang/2019/collections/3-2/19_FRD_MST_3-2_2.jpg"
+    },
+    {
+        "plate": "GHI-9101",
+        "brand": "Dodge",
+        "model": "Challenger",
+        "year": 2020,
+        "color": "Black",
+        "price": 93000,
+        "image": "https://www.dodge.com/content/dam/dodge_site/srt/challenger-srt/2020/overview/2020-dodge-challenger-srt-hellcat-redeye-widebody-1.jpg"
+    },
+    {
+        "plate": "JKL-1213",
+        "brand": "Chevrolet",
+        "model": "Corvette",
+        "year": 2021,
+        "color": "Yellow",
+        "price": 122000,
+        "image": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2021/performance/corvette-stingray/01-images/2021-corvette-stingray-convertible-1016x675.jpg"
+    }
+]
